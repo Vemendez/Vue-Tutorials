@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "65588e54-d076-4c8c-9a42-29fb98ef60d9",
+      "category": "nature",
+      "title": "Woods",
+      "description": "trees",
+      "location": "nevada",
+      "date": "August 20 2020",
+      "time": "2:00",
+      "organizer": "Eduardo Mendez"
+    },
+    {
+      "id": "26bd5835-442a-4807-a348-1ed2f9c3867c",
+      "category": "animal welfare",
+      "title": "Kangaroo Combining Competition",
+      "description": "What does this event look like?",
+      "location": "Outback",
+      "date": "Sept 4, 2021",
+      "time": "3:00",
+      "organizer": "Eduardo Mendez"
+    },
+    {
+      "id": "fd7ad9aa-3c74-4770-bff0-b758557e43a6",
+      "category": "nature",
+      "title": "Jungle",
+      "description": "Is Tarzan Real?",
+      "location": "Africa",
+      "date": "Sept 15, 2025",
+      "time": "4:00",
+      "organizer": "Eduardo Mendez"
+    },
+    {
+      "id": "f5e2c6a4-4fec-4f52-84ff-bb3a142a18f4",
+      "category": "education",
+      "title": "Learning Luncheon ",
+      "description": "a new event",
+      "location": "New York",
+      "date": "September 15, 2024",
+      "time": "12:00",
+      "organizer": "Eduardo Mendez"
+    }
+  ]
+}

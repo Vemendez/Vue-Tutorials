@@ -1,0 +1,14 @@
+Vue2
+This was called like this refering to dependig on an owner to execute a code, and then notifying it
+to save the effect = depend()
+to run = notify()
+
+Needed to create a dep class
+
+
+Vue3
+Changin it verbs to track meaning tracking the efect and trigger to trigger it
+to save the effect = track()
+to run = trigger()
+
+just need to call set to simplify perfomance
